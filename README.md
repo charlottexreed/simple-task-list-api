@@ -1,4 +1,4 @@
-# Simple Task List Api
+# Simple Task List API
 
 A minimal GraphQL API to do basic interactions with tasks
 
@@ -6,7 +6,7 @@ A minimal GraphQL API to do basic interactions with tasks
 
 - Create tasks
 - Toggle tasks to completed or not completed
-- Get all or a specific task
+- Get all tasks or a specific task
 - Delete tasks
 - Extra: Update task title
 

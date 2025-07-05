@@ -13,7 +13,7 @@ A minimal GraphQL API to do basic interactions with tasks
 ## Getting the API up and running
 
 1. Clone this repository
-2. Install Node.js if you haven't already and type the command:
+2. Install Node.js if you haven't already and from the project folder type the command:
 ```
 npm install
 ```
